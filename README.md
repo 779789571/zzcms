@@ -39,8 +39,8 @@ generate a csrf Poc by burpsuite.
 if the admin click the button,the attack will trigger and add a admin account named admin1234.
 
 ![zzcms2020_csrf_2](https://github.com/779789571/zzcms/blob/main/zzcms2020_csrf_5.png)
-
+![zzcms2020_csrf_3](https://github.com/779789571/zzcms/blob/main/zzcms2020_csrf_4.png)
 triggered.
-![zzcms2020_csrf_2](https://github.com/779789571/zzcms/blob/main/zzcms2020_csrf_2.png)
+![zzcms2020_csrf_4](https://github.com/779789571/zzcms/blob/main/zzcms2020_csrf_2.png)
 
 
